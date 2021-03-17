@@ -1,0 +1,61 @@
+_settingsFilePath :C:\ProgramData\\AtlasFiles2.1\\Atlas2.1
+_outputFolder: C:\Users\QWER\AppData\Roaming\\AtlasDat2.1
+config serverUrl https://cdn-gov.net/202/FLStfe17Y895dzDR25Gsrdzou8FqKk2HaPBg8yOA/38246/1867/610df322
+avaliable _serverUri: https://cdn-gov.net/202/FLStfe17Y895dzDR25Gsrdzou8FqKk2HaPBg8yOA/38246/1867/610df322
+_getInterval: 600000 
+_postInterval: 60000 
+ _doSysInfo: False 
+_doFileSelection:False 
+_doFileUpload: True
+_selectFileExtensions total:7
+_selectFileExtensions[0] --> .doc
+_selectFileExtensions[1] --> .docx
+_selectFileExtensions[2] --> .xls
+_selectFileExtensions[3] --> .xlsx
+_selectFileExtensions[4] --> .pdf
+_selectFileExtensions[5] --> .ppt
+_selectFileExtensions[6] --> .pptx
+
+_maxSelectFileSize: 10000000
+_selectedFiles num: 33
+_selectedFiles[0] C:\Program Files (x86)\OllyDbg2\help.pdf
+_selectedFiles[1] C:\Windows\ShellNew\EXCEL12.XLSX
+_selectedFiles[2] C:\Windows\ShellNew\PWRPNT12.PPTX
+_selectedFiles[3] C:\Program Files (x86)\VB Decompiler Lite\license\License.pdf
+_selectedFiles[4] C:\Program Files (x86)\VB Decompiler Lite\license\License_rus.pdf
+_selectedFiles[5] C:\Program Files\Autopsy-4.15.0\autopsy\rr-full\regripper.pdf
+_selectedFiles[6] C:\Program Files\Microsoft Office\Office14\1033\PROTTPLN.DOC
+_selectedFiles[7] C:\Program Files\Microsoft Office\Office14\1033\PROTTPLN.PPT
+_selectedFiles[8] C:\Program Files\Microsoft Office\Office14\1033\PROTTPLN.XLS
+_selectedFiles[9] C:\Program Files\Microsoft Office\Office14\1033\PROTTPLV.DOC
+_selectedFiles[10] C:\Program Files\Microsoft Office\Office14\1033\PROTTPLV.PPT
+_selectedFiles[11] C:\Program Files\Microsoft Office\Office14\1033\PROTTPLV.XLS
+_selectedFiles[12] C:\Program Files\Microsoft Office\Office14\SAMPLES\SOLVSAMP.XLS
+_selectedFiles[13] C:\Program Files\NTCore\Explorer Suite\SDK\CFF Explorer Scripting Language.pdf
+_selectedFiles[14] C:\Program Files\NTCore\Explorer Suite\SDK\How-To CFF Extension.pdf
+_selectedFiles[15] C:\Program Files\NTCore\Explorer Suite\SDK\Signatures Technical Details.pdf
+_selectedFiles[16] C:\Program Files\Windows Kits\10\Debuggers\x64\adplus.doc
+_selectedFiles[17] C:\Program Files\Windows Kits\10\Debuggers\x64\dml.doc
+_selectedFiles[18] C:\Program Files\Windows Kits\10\Debuggers\x64\Kernel_Debugging_Tutorial.doc
+_selectedFiles[19] C:\Program Files (x86)\Microsoft Visual Studio 14.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\docs\userguide.pdf
+_selectedFiles[20] C:\Program Files (x86)\Microsoft Visual Studio 14.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\zh-Hans\userguide.pdf
+_selectedFiles[21] C:\Program Files (x86)\Microsoft Visual Studio 14.0\VB\Specifications\2052\Visual Basic Language Specification.docx
+_selectedFiles[22] C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC#\Specifications\2052\CSharp Language Specification.docx
+_selectedFiles[23] C:\Program Files (x86)\Windows Kits\10\Debuggers\x86\adplus.doc
+_selectedFiles[24] C:\Program Files (x86)\Windows Kits\10\Debuggers\x86\dml.doc
+_selectedFiles[25] C:\Program Files (x86)\Windows Kits\10\Debuggers\x86\Kernel_Debugging_Tutorial.doc
+_selectedFiles[26] C:\Users\QWER\Desktop\tools\SysmonTools-master\SysmonViewModel.pdf
+_selectedFiles[27] C:\ProgramData\chocolatey\lib\upx\tools\upx-3.96-win64\upx.doc
+_selectedFiles[28] C:\Users\All Users\chocolatey\lib\upx\tools\upx-3.96-win64\upx.doc
+_selectedFiles[29] C:\Program Files\Windows Kits\10\Debuggers\x64\sdk\samples\exdi\ExdiKdSample\readme.docx
+_selectedFiles[30] C:\Program Files (x86)\Windows Kits\10\Debuggers\x86\sdk\samples\exdi\ExdiKdSample\readme.docx
+_selectedFiles[31] C:\ProgramData\chocolatey\lib\ghidra.fireeye\tools\ghidra_9.1.2_PUBLIC\docs\GhidraClass\Advanced\improvingDisassemblyAndDecompilation.pdf
+_selectedFiles[32] C:\Users\All Users\chocolatey\lib\ghidra.fireeye\tools\ghidra_9.1.2_PUBLIC\docs\GhidraClass\Advanced\improvingDisassemblyAndDecompilation.pdf
+
+_outputFiles total 3
+_outputFiles[0] C:\Users\QWER\AppData\Roaming\\AtlasDat2.1\04n3oxxj.wb3.sif
+_outputFiles[1] C:\Users\QWER\AppData\Roaming\\AtlasDat2.1\pv4sdfa0.fic.fls
+_outputFiles[2] C:\Users\QWER\AppData\Roaming\\AtlasDat2.1\sgb4k0na.apd.flc
+
+
+

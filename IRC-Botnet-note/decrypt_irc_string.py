@@ -27,6 +27,18 @@ def get_str(ea):
         ea +=1
     return  decrypt(bs)
  
+ 
+def is_ascii(s):
+    return all(ord(c) < 128 for c in s)
+
+def replace_str(ea,new_str):
+    base = ea
+    for s in new_str:
+        idc.patch_byte(ea,ord(s))
+        ea+=1
+    idc.create_strlit(base,idc.BADADDR)
+    print("patched: 0x%x %s"%(base,new_str))
+ 
     
 def decrypt_all_str(start,end):
     while start <= end:
@@ -34,7 +46,9 @@ def decrypt_all_str(start,end):
         if  text =='':
             start = idc.next_addr(start)
         else:
-            print("0x%x  %s"%(start,text))
+            #print("0x%x  %s"%(start,text))
+            if is_ascii(text):
+                replace_str(start, text)
             start +=len(text)
 start = 0x4053A4
 end = 0x405A74
